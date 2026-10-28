@@ -1,0 +1,18 @@
+Zepto-SQL-Data-Analysis
+│
+├── Dataset
+│   └── zepto.csv
+│
+├── SQL Queries
+│   ├── 01_database_setup.sql
+│   ├── 02_data_exploration.sql
+│   ├── 03_data_cleaning.sql
+│   ├── 04_business_insights.sql
+│   └── 05_advanced_analysis.sql
+│
+├── Screenshots
+│   ├── category_analysis.png
+│   ├── top_discount_products.png
+│   └── revenue_analysis.png
+│
+└── README.md
